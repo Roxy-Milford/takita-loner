@@ -1,0 +1,2 @@
+# takita-loner
+Web aplication
